@@ -3,8 +3,9 @@ var memberdef_8cpp =
     [ "MemberDefImpl", "d7/d7e/class_member_def_impl.html", "d7/d7e/class_member_def_impl" ],
     [ "MemberDefAliasImpl", "d7/d70/class_member_def_alias_impl.html", "d7/d70/class_member_def_alias_impl" ],
     [ "MemberDefImpl::IMPL", "d0/da8/class_member_def_impl_1_1_i_m_p_l.html", "d0/da8/class_member_def_impl_1_1_i_m_p_l" ],
-    [ "addDocCrossReference", "d0/d72/memberdef_8cpp.html#a7cd6991fc0430d4b5540fa73055c31bf", null ],
+    [ "addDocCrossReference", "d0/d72/memberdef_8cpp.html#a91959a7c929a76adaaa2d342fea73126", null ],
     [ "addTemplateNames", "d0/d72/memberdef_8cpp.html#ac66cc6a4e1d7c053d396a641dfe15d93", null ],
+    [ "combineArgsAndException", "d0/d72/memberdef_8cpp.html#a422d9b60fc7fc0a5e71595c715fa944e", null ],
     [ "combineDeclarationAndDefinition", "d0/d72/memberdef_8cpp.html#abaf3303e28a7a9e34bdcfbe4bfc893cb", null ],
     [ "createMemberDef", "d0/d72/memberdef_8cpp.html#a2739629cdf19249dcf7cd08f8c9491e7", null ],
     [ "createMemberDefAlias", "d0/d72/memberdef_8cpp.html#ae281f621b63827b091af77cc24c025fd", null ],
@@ -14,7 +15,6 @@ var memberdef_8cpp =
     [ "toMemberDef", "d0/d72/memberdef_8cpp.html#aac062c9356229664b77d347ac8cc94d0", null ],
     [ "toMemberDef", "d0/d72/memberdef_8cpp.html#af5b90e1ee6115fc2c7c6ce672c3dd157", null ],
     [ "toMemberDef", "d0/d72/memberdef_8cpp.html#aadf8d5c103d1bd6ff91c784f02ebe2dd", null ],
-    [ "toMemberDefMutable", "d0/d72/memberdef_8cpp.html#a034300bff462d36cc2ca3140f2f290d9", null ],
     [ "toMemberDefMutable", "d0/d72/memberdef_8cpp.html#a9ea80ba313803ae565f05ce1c8eb6bb5", null ],
     [ "transferArgumentDocumentation", "d0/d72/memberdef_8cpp.html#a916ded3150c496785b98bbd5c2bee442", null ],
     [ "writeDefArgumentList", "d0/d72/memberdef_8cpp.html#a5109f6f8128e0b9169ac9b8ebe29ba64", null ],
@@ -22,5 +22,7 @@ var memberdef_8cpp =
     [ "writeExceptionListImpl", "d0/d72/memberdef_8cpp.html#a25431a65b263de7827454ea81eb8be29", null ],
     [ "g_cachedAnonymousTypeMutex", "d0/d72/memberdef_8cpp.html#a961ae6d2d358b27f1898087008b186fa", null ],
     [ "g_detectUndocumentedParamsMutex", "d0/d72/memberdef_8cpp.html#a8e711cc7ca7ab729f5b8e1d81d88cf53", null ],
+    [ "g_docCrossReferenceMutex", "d0/d72/memberdef_8cpp.html#a6ec17e0e1fa9fc5b2ab522f618f39b88", null ],
+    [ "g_hasDetailedDescriptionMutex", "d0/d72/memberdef_8cpp.html#a62bb009cd0c5ff54af5146380fd18f05", null ],
     [ "reAnonymous", "d0/d72/memberdef_8cpp.html#afaa6100850ded3f073682450f105d7eb", null ]
 ];

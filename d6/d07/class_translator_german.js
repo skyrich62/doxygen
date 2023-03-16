@@ -42,7 +42,7 @@ var class_translator_german =
     [ "trCustomReference", "d6/d07/class_translator_german.html#a49e3ab79d002cfeaa46b625a00be906b", null ],
     [ "trDataTypes", "d6/d07/class_translator_german.html#a74a8536e0227caf31ce07dee701c542a", null ],
     [ "trDate", "d6/d07/class_translator_german.html#af8740d3be4ae5ee2f6ebfeb3c9a75106", null ],
-    [ "trDateTime", "d6/d07/class_translator_german.html#a4fa0e3cf73ad2b63a6c475156201408b", null ],
+    [ "trDateTime", "d6/d07/class_translator_german.html#a16dc860b1ac0e41413a574ef55705d8c", null ],
     [ "trDayOfWeek", "d6/d07/class_translator_german.html#ad160ddf5626afb137fcaa781a79ea4cc", null ],
     [ "trDayPeriod", "d6/d07/class_translator_german.html#ac881a854a27b6f60aa2129d45cbd7e98", null ],
     [ "trDefinedAtLineInSourceFile", "d6/d07/class_translator_german.html#ac7f5098a2bd658cba106f74638cfb0b4", null ],
@@ -81,7 +81,6 @@ var class_translator_german =
     [ "trEnumValue", "d6/d07/class_translator_german.html#ae091b1418a7c22394f75ef8e3bf348cb", null ],
     [ "trEventDocumentation", "d6/d07/class_translator_german.html#a33965bad26af13e2fc6a60315747e468", null ],
     [ "trEvents", "d6/d07/class_translator_german.html#a97f8b6f8a6d7a0444df882347533faae", null ],
-    [ "trExampleDocumentation", "d6/d07/class_translator_german.html#adab916e93bf450286b489ee1b0b4bd41", null ],
     [ "trExamples", "d6/d07/class_translator_german.html#a24ef90fbd80c5e1a3964afd7cbd9db8b", null ],
     [ "trExamplesDescription", "d6/d07/class_translator_german.html#a143d559232d873527104233e9623ee50", null ],
     [ "trExceptions", "d6/d07/class_translator_german.html#a52930d6ef40b8d44cfda146f3710f72c", null ],
@@ -251,7 +250,7 @@ var class_translator_german =
     [ "trVariableDocumentation", "d6/d07/class_translator_german.html#aa39112aaf2cf48b97fd460a8abce541e", null ],
     [ "trVariables", "d6/d07/class_translator_german.html#acf2415c174b045d970640d2ee059b76a", null ],
     [ "trVersion", "d6/d07/class_translator_german.html#a28bf9600f4d382a47492b08f71995fe4", null ],
-    [ "trVhdlType", "d6/d07/class_translator_german.html#aaf491e95c9b30b1a99025c8287c42029", null ],
+    [ "trVhdlType", "d6/d07/class_translator_german.html#a5d844764c982e26b59293f03effea5db", null ],
     [ "trWarning", "d6/d07/class_translator_german.html#aee79ab416d3067077976eda0ec2fe9e6", null ],
     [ "trWriteList", "d6/d07/class_translator_german.html#ad5fec4eb2e9d641fc19a4cd6e212a5d7", null ]
 ];

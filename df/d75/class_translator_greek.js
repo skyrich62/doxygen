@@ -39,6 +39,7 @@ var class_translator_greek =
     [ "trCompoundReferenceFortran", "df/d75/class_translator_greek.html#a111e5f4de3b88f06560451bc95749fd2", null ],
     [ "trCompoundReferenceSlice", "df/d75/class_translator_greek.html#a0331f489559170f9d5e4ed476e636c77", null ],
     [ "trCompounds", "df/d75/class_translator_greek.html#a086a20bfe04ebf6416da1c170b12defb", null ],
+    [ "trCompoundType", "df/d75/class_translator_greek.html#aac841d35de0bcd13570523debf8a423f", null ],
     [ "trConcept", "df/d75/class_translator_greek.html#af670e8d170d879eea2c19f6ea0399e8a", null ],
     [ "trConceptDefinition", "df/d75/class_translator_greek.html#afd0c7639c133b37d2df0ceb25e82ffde", null ],
     [ "trConceptDocumentation", "df/d75/class_translator_greek.html#ae85ecde0a7c17762d2b2c2ac560bda2b", null ],
@@ -57,7 +58,7 @@ var class_translator_greek =
     [ "trDataMembers", "df/d75/class_translator_greek.html#aaab4cb6e0b7b1583e58dc010569eb3e3", null ],
     [ "trDataTypes", "df/d75/class_translator_greek.html#a449e141ff0362337ca545fd1aa3f27f0", null ],
     [ "trDate", "df/d75/class_translator_greek.html#a66b91d2c8c37e0d31c33e4e66788e0a7", null ],
-    [ "trDateTime", "df/d75/class_translator_greek.html#a3570152536e37ff51b9c660f72c27d4f", null ],
+    [ "trDateTime", "df/d75/class_translator_greek.html#afe443465281e8106eff05b63f4a64cff", null ],
     [ "trDayOfWeek", "df/d75/class_translator_greek.html#a5bb88660a1370874e7e4dbbd50653821", null ],
     [ "trDayPeriod", "df/d75/class_translator_greek.html#a542cdab31b6fc8090801deedfa82c17a", null ],
     [ "trDefinedAtLineInSourceFile", "df/d75/class_translator_greek.html#a3f6d419d244f211a2eda0bab80adbd9c", null ],
@@ -98,7 +99,6 @@ var class_translator_greek =
     [ "trEnumValue", "df/d75/class_translator_greek.html#afd8eaa8133b7945efe82766718a907c0", null ],
     [ "trEventDocumentation", "df/d75/class_translator_greek.html#a267fa4466f72a89df428d4fa1cc518b0", null ],
     [ "trEvents", "df/d75/class_translator_greek.html#a5df9b859596cb0b5836cbaf9c04d6572", null ],
-    [ "trExampleDocumentation", "df/d75/class_translator_greek.html#a13cb9634c1dc8804684f526ac7112400", null ],
     [ "trExamples", "df/d75/class_translator_greek.html#a75dd2ea0dc31e3738676cf56d598a479", null ],
     [ "trExamplesDescription", "df/d75/class_translator_greek.html#a49adb03bcbfb71c475a3668107ab787b", null ],
     [ "trExceptionDocumentation", "df/d75/class_translator_greek.html#ae7fa32e2393d7b70b1c0b06d3c344345", null ],
@@ -290,7 +290,7 @@ var class_translator_greek =
     [ "trVariableDocumentation", "df/d75/class_translator_greek.html#a5de7ff594f0fa5e5c9ca9d87ede6b0f3", null ],
     [ "trVariables", "df/d75/class_translator_greek.html#ac66d1f4971d580d34fa95c8f5429bc8b", null ],
     [ "trVersion", "df/d75/class_translator_greek.html#a32b03703244deaf8a9221b5428f41f57", null ],
-    [ "trVhdlType", "df/d75/class_translator_greek.html#a490ddb8345625b64ffcc1a3ed3bebd44", null ],
+    [ "trVhdlType", "df/d75/class_translator_greek.html#a6b5a356603074813eefe660c41c5f947", null ],
     [ "trWarning", "df/d75/class_translator_greek.html#a82cf5aab5f2ce247f5911eba5ddce2fb", null ],
     [ "trWriteList", "df/d75/class_translator_greek.html#afb975a900ede5cf426effbd69025ba9a", null ]
 ];
